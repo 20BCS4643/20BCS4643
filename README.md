@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/20BCS4643/20BCS4643/output/snake.svg" alt="Snake animation" />
+</p>
+
